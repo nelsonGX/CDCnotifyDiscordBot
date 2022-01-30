@@ -1,3 +1,4 @@
+#CDC notify BOT v2 by nelsonGX
 # -*- coding: utf-8 -*-
 #imports
 import json
